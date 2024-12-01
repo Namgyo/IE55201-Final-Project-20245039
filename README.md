@@ -94,3 +94,6 @@ If you find this code useful in your research, consider citing with
 ## License
 
 MIT
+
+## Reference
+EmilienDupont. (n.d.). augmented-neural-odes/README.md at master · EmilienDupont/augmented-neural-odes. GitHub. https://github.com/EmilienDupont/augmented-neural-odes/blob/master/README.md
